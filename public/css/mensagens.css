@@ -1,0 +1,16 @@
+#resultado {
+  margin-top: 30px;
+}
+
+#resultado-conversao {
+  font-size: 4rem;
+  font-weight: bold;
+  color: green;
+  margin-top: 20px;
+}
+
+#msg-erro {
+  color: red;
+  margin-top: 20px;
+  display: none;
+}
