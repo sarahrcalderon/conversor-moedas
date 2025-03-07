@@ -12,7 +12,7 @@ Este projeto é um conversor de moedas desenvolvido com Node, html, CSS e JS. El
 - **Axios**: Biblioteca para fazer requisições HTTP à API de taxas de câmbio.
 - **CORS**: Permite requisições de diferentes origens.
 - **dotenv**: Gerencia variáveis de ambiente de forma segura.
-- **v6.exchangerate-api.com/v6**: API para obter taxas de câmbio em tempo real.
+- **Exchange Rate API**: API para obter taxas de câmbio em tempo real.
 
 ## Funcionalidades
 
