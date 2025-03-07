@@ -1,3 +1,5 @@
+
+###############################################################################################################################################################################################UP FUTUROS
 Este projeto é um conversor de moedas desenvolvido com Node.js, HTML, CSS e JavaScript. Ele permite a conversão entre as moedas dólar (USD), euro (EUR) e real (BRL), utilizando uma API REST para obter as taxas de câmbio em tempo real.
 
 Tecnologias Utilizadas
